@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro de Datos",
+      "type": "text",
+      "id": "Field_0i8ssm7"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_05dh2xp",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido ",
+      "type": "textfield",
+      "id": "Field_0alsdt1",
+      "key": "apellido"
+    },
+    {
+      "label": "estado",
+      "type": "textfield",
+      "id": "Field_0fztlth",
+      "key": "estado"
+    },
+    {
+      "label": "telefono",
+      "type": "textfield",
+      "id": "Field_156a6x3",
+      "key": "telefono"
+    }
+  ],
+  "type": "default",
+  "id": "form1"
+}
